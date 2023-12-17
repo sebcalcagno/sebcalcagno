@@ -1,7 +1,5 @@
 
-# Hi 👋 I am Sebastian! 
-
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Sebastian Calcagno</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 I'm an actuary and data analyst enthusiast who loves to learn about new things. 
