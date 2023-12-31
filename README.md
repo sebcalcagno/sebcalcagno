@@ -15,6 +15,3 @@ I'm an actuary and data analyst enthusiast who loves to learn about new things.
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
   </a>
-   <a
-  [GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) >
-  </a>
